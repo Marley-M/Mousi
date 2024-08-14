@@ -1,0 +1,3 @@
+THIS IS A VIRUS/MALWARE
+
+All it does is take control of your mouse. If you want to stop it you can either close the CMD windows that open when it's run or shut down your computer.
